@@ -54,8 +54,8 @@ public class SpeciesCounter {
                 speciesCount[SP_ADELIE_INDEX]++;
             }
         }
-    }
-
+   }
+           
     // Prints the species count
     public void printSpeciesCount() {
 System.out.println(SP_CHINSTRAP + " count = "
